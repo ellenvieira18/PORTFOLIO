@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: lightseagreen;
+    /* width: 96vw; */
+    padding: 20px;
+    text-align: center;
+}
+.quemsoueu{
+    color: lightseagreen;
+    /* width: 100vw; */
+    padding: 50px;
+    text-align: center; 
+}
+.sobremim{
+   
+    /* position: relative; */
+    margin-left: 450px;
+    height: 100px;
+    width: 700px;
+    
+}
+.foto{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+   
+}
+.lista{
+    padding: 20px; /* Adiciona um espaço interno de 20px ao redor do conteúdo principal */
+    background-color: rgb(255, 255, 255); /* Define o fundo branco para destacar o conteúdo em relação ao fundo azul claro do body */
+    margin: 20px; /* Adiciona uma margem externa de 20px ao redor da seção main, separando-a das bordas da página */
+    border-radius: 10px; /* Adiciona bordas arredondadas para suavizar os contornos */
+    text-align: center; 
+}
+.ensino{
+    width: 30vw;
+    padding: 10px;
+    padding: 20px; /* Adiciona um espaço interno de 20px ao redor do conteúdo principal */
+    background-color: lightseagreen; /* Define o fundo branco para destacar o conteúdo em relação ao fundo azul claro do body */
+    margin: 20px; /* Adiciona uma margem externa de 20px ao redor da seção main, separando-a das bordas da página */
+    border-radius: 10px; /* Adiciona bordas arredondadas para suavizar os contornos */
+    text-align: center; 
+}
+.emprego{
+    width: 30vw;
+    padding: 10px;
+    padding: 20px; /* Adiciona um espaço interno de 20px ao redor do conteúdo principal */
+    background-color: lightseagreen; /* Define o fundo branco para destacar o conteúdo em relação ao fundo azul claro do body */
+    margin: 20px; /* Adiciona uma margem externa de 20px ao redor da seção main, separando-a das bordas da página */
+    border-radius: 10px; /* Adiciona bordas arredondadas para suavizar os contornos */
+    text-align: center; 
+
+}
+.trabalho{
+    color: lightseagreen;
+    /* width: 100vw; */
+    padding: 50px;
+    text-align: center; 
+}
+
+main{
+    text-align: center;
+    /* position: relative;
+    margin-left:30;
+    height: 100;
+    width: 100; */
+}
+footer{
+    background-color: lightseagreen;
+    padding: 20px;
+    text-align: center;
+}
